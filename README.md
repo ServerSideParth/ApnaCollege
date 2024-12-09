@@ -1,3 +1,4 @@
 # ApnaCollege
 This is my first repository
-           Author - Pratham Mishra
+<br> Author - Pratham Mishra
+
